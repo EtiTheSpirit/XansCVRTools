@@ -1,5 +1,5 @@
 # Xan's CVR Tools
-A collection of tools I designed for the ChilloutVR CCK
+A collection of tools I designed for the ChilloutVR CCK. You can download them all in one on the [Releases page](https://github.com/EtiTheSpirit/XansCVRTools/releases).
 
 # Tools
 
